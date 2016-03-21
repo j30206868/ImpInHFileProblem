@@ -1,5 +1,5 @@
-#ifndef MAN_H
-#define MAN_H
+#ifndef WOMAN_H
+#define WOMAN_H
 
 #include "ImplementInHeaderFile.h"
 

@@ -2,6 +2,7 @@
 #include "woman.h"
 
 int main(){
-
+	manMakePhoneCall();
+	womanMakePhoneCall();
 	return 1;
 }
