@@ -1,5 +1,5 @@
 #include "man.h"
 
-void peopleMakePhoneCall(){
+void manMakePhoneCall(){
 	makePhoneCall();
 }
