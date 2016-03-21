@@ -17420,14 +17420,12 @@ namespace std
 }
 # 5 "ImplementInHeaderFile.h" 2
 
-void makePhoneCall(){
- std::cout << "Call 911.\n" << std::endl;
-}
+void makePhoneCall();
 # 5 "man.h" 2
 
 void manMakePhoneCall();
 # 2 "man.cpp" 2
 
-void peopleMakePhoneCall(){
+void manMakePhoneCall(){
  makePhoneCall();
 }

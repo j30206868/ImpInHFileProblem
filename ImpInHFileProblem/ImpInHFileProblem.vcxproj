@@ -62,6 +62,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ImplementInHeaderFile.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="man.cpp" />
     <ClCompile Include="Woman.cpp" />
